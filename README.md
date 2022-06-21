@@ -23,8 +23,8 @@ Display the grayscale image.
 
 ## Program:
 ```python
-# Developed By:
-# Register Number:
+# Developed By: Dineshkumar S
+# Register Number: 212220230012
 import cv2
 import matplotlib.pyplot as plt
 
